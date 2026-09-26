@@ -1,4 +1,4 @@
-# Preface
+## Preface
 
 Some ancient books seem familiar almost immediately. Their stories move through landscapes we recognize, their characters have become part of our shared imagination, and even before we open them we have some idea of where they are going. The *Gospel of Philip* is not one of those books.
 

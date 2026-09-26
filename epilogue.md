@@ -1,6 +1,6 @@
-# Epilogue
+## Epilogue
 
-## Go in the Light
+### Go in the Light
 
 We have come to the end of these readings, but perhaps that is not quite the right way to describe it. Philip has spent thirty days teaching us to distrust simple endings. Seeds disappear before they rise, what is hidden becomes visible, and resurrection begins before death.
 
